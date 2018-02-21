@@ -5,7 +5,7 @@ import YTSearch from 'youtube-api-search'
 import SearchBar from './components/search-bar'
 import VideoList from './components/video-list'
 import VideoDetail from './components/video-detail';
-const API_KEY = 'xxxx' // Your Youtube's api key
+const API_KEY = 'AIzaSyB-ea_fy983vOE7Mn1TOq3R4h1EgN70ddI'
 
 class App extends Component {
   constructor(props) {
